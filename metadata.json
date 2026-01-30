@@ -1,0 +1,5 @@
+{
+  "name": "Classroom AI Solver",
+  "description": "A Google Classroom clone featuring an integrated AI homework solver.",
+  "requestFramePermissions": []
+}
